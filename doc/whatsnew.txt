@@ -1,0 +1,16 @@
+v 0.4a  14.07.2005
+- added info message if test is skpped if delta time is less then min check time
+
+v 0.4  16.06.2005
+- added work with ini file so that it is possible to test RAM ones a day
+
+v 0.3  21.12.2004
+- added silent mode
+- added "press any key to skip"
+- added some benchmark information
+
+v 0.2  20.12.2004
+- added support for HiMem memory arena (i.e. > 512Mb)
+- added support for free phisical memory determination
+  (Dos16FreeMem call, may not work with more that 1Gb RAM)
+- small bugs fixed

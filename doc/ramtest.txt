@@ -1,0 +1,29 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: ramtest.zip
+       Short Description: Memory test utility, v 0.4a
+        Long Description: Memory test utility. May be used for burning memory and stress test your system,
+                          as well as last chance to fight with memory's rakes.
+                          Source code included.
+
+      Proposed directory
+           for placement: /pub/os2/util/memory
+
+               Your name: Evgeny Kotsuba  
+           Email address: [Evgen]@os2russian.efnet.irc
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2
+ Additional requirements: 
+
+                Replaces: /pub/os2/util/memory/ramtest.zip
+
+
+

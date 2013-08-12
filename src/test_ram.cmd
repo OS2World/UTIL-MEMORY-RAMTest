@@ -1,0 +1,9 @@
+@echo off
+ramtest.exe 0 
+ IF NOT ERRORLEVEL 1 GOTO STEP2
+ ECHO RAM TEST FAILED
+ PAUSE
+ GOTO END
+ :STEP2
+      ECHO RAM Test Ok
+ :END
